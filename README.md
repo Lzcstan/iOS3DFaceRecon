@@ -2,7 +2,7 @@
 
 # TODO
 
-- [x] Get the RGB-D files (This repository)
+- [x] Get the RGB-D files ($This repository$)
 
 - [x] Generate 3D face mesh with landmark detector and 3DMM
 
