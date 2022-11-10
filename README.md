@@ -2,9 +2,9 @@
 
 # TODO
 
-- [x] Get the RGB-D files ($This repository$)
+- [x] Get the RGB-D files (**This repository**)
 
-- [x] Generate 3D face mesh with landmark detector and 3DMM
+- [x] Generate 3D face mesh with landmark detector and 3DMM (We can see that the reconstruction algorithm can handle the face below, which has extreme angle.)
 
 ![4859](Res/4859.JPEG)
 
